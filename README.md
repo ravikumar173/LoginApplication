@@ -1,2 +1,1 @@
-# LoginApplication
-Test application
+This is a test application
